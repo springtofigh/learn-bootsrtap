@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .user-menu {
+        margin-top: 20px;
+        justify-content: center !important;
+    }
+}
